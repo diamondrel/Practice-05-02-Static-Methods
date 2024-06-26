@@ -1,0 +1,1 @@
+# Practice-05-02-Static-Methods
